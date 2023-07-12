@@ -86,10 +86,10 @@ If you encounter any issues while setting up or using the SIAS project, consider
 If the problem persists, please refer to the project documentation or seek assistance from the project maintainers.
 
 ## Credits
-The SIAS project was developed by 
-Muhammad Kashif    FA19-BCS-055
-Noor Ul Ain        FA19-BCS-065
-Sadaf Iqbal Hashmi FA19-BCS-071
+The SIAS project was developed by .
+Muhammad Kashif    FA19-BCS-055.
+Noor Ul Ain        FA19-BCS-065.
+Sadaf Iqbal Hashmi FA19-BCS-071.
 
 ## License
 COMSATS univesity islamabad, sahiwal campus
